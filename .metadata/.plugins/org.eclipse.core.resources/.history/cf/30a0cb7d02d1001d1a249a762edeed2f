@@ -1,0 +1,16 @@
+package New;
+
+public class ReverseVen 
+{
+	
+	public static void main(String[] args)
+	{
+		
+		int iNum = 80;
+		
+		
+		for(int i = iNun)
+		
+	}
+
+}

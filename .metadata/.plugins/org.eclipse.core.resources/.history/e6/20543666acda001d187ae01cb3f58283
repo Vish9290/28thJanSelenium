@@ -1,0 +1,23 @@
+package String1;
+
+public class Main
+{
+	
+	public static void main(String[] args)
+	{
+		
+		String str = "vishal";
+		
+		ToUpper(str);
+		
+	}
+	
+	
+	public static String ToUpper(String str1)
+	{
+		str1.toUpperCase();
+		
+		return str1;
+	}
+
+}

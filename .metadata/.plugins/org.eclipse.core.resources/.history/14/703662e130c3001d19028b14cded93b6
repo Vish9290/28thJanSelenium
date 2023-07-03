@@ -1,0 +1,12 @@
+package Protected;
+
+public class ProtectedClass 
+{
+	protected int d;
+	
+	protected ProtectedClass() 
+	{
+		d = 20;
+			
+	}
+}
